@@ -1,0 +1,1 @@
+{"Dipesh": 1, "Ram": 0, "Roman": 1, "Raj": 1}
